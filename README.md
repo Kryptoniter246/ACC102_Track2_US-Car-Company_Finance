@@ -1,4 +1,4 @@
-## ACC102 Track 2 – GitHub Data Analysis Project
+## ACC102 Track 2 – US Automakers Financial Data Analysis Project
 
 ## 1. Product & User
 This data product helps **car buyers and auto enthusiasts** understand the financial performance and stability of major U.S. automakers. By analysing **historical data and financial trends**, users can evaluate brand reliability, long‑term stability, and financial strength before making purchasing decisions.
