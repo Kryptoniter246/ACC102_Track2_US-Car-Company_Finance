@@ -1,12 +1,12 @@
 # ACC102_Track2_US_Car_Company_Finance
 
 ## 1. Problem & User
-This project analyzes the operating performance and financial strength of five major U.S. automakers to provide clear, data-driven insights for car buyers and auto enthusiasts.
+This project analyzes the operating performance and financial strength of five major U.S. automakers in recent years (2020-2024) to provide clear, data-driven insights for car buyers and auto enthusiasts.It focuses on key metrics including revenue, net income, profit margin, ROA, and long-term debt ratio to help car buyers and car enthusiasts evaluate brand stability, profitability, and sustainability. The Python-based workflow includes data extraction, cleaning, ratio calculation, and visual comparison, providing clear, data-driven insights for better vehicle purchase decisions.
 
 ## 2. Data Source
 - Platform: WRDS Compustat
 - Access date: April 11, 2026
-- Period: **2020–2024 (most recent 5 years)**
+- Period: 2020–2024 (most recent 5 years)
 - Companies: Ford(F), GM(GM), Tesla(TSLA), Rivian(RIVN), Lucid(LCID)
 
 ## 3. Python Methods
